@@ -1,5 +1,5 @@
 <h1 align="center">Hello World</h1>
-<p align="center">I program for both hobby and profession. It helps me when I can't sleep at night, and it obsesses me to materialize my idea into code. Sometimes, I can create an app in Kotlin for Android, and other times, I can build an exploit in Python, why not? I grew up, live, and will probably die doing this until an artificial intelligence absorbs my mind and I could live on some random cloud server, just like an episode of Black Mirror, y'know.
+<p align="center">I program for both hobby and profession. It helps me when I can't sleep at night, and it obsesses me to materialize my idea into code. Sometimes, I can create an app in Kotlin for Android, and other times, I can build an exploit in Python, why not? If I want to be a Mr. Robot, I am, even though I have no idea about TCP/IP. I grew up, live, and will probably die doing this until an artificial intelligence absorbs my mind and I could live on some random cloud server, just like an episode of Black Mirror, y'know.
 
 I hate web design, but if the pay is good, maybe I'll reconsider.</p>
 
