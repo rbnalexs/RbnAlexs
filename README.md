@@ -3,7 +3,7 @@
 
 <p>I hate web design, but if you pay me well, maybe I'll reconsider. </p>
 
-<p>You can copy, save, replicate, and use any repository from here, just as Microsoft does without my explicit authorization.</p>
+<p>You can copy, save, replicate, and use any repo from here, just as Microsoft does without my explicit authorization, isn't it?</p>
 <p>Whatever...</p>
 
 <p align:center>
