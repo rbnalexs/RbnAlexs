@@ -13,5 +13,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 <p>
-    <img src="https://raw.githubusercontent.com/RbnAlexs/RbnAlexs/main/tlacuache.jpg" />
+    <!--<img src="https://raw.githubusercontent.com/RbnAlexs/RbnAlexs/main/tlacuache.jpg" />-->
 </p>
